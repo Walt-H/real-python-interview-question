@@ -64,9 +64,10 @@ To emphasize data validation, [latitude and longitude](http://www.geomidpoint.co
 
 Validation will then be checking for the inputs existence, if they are numeric, and lastly ensuring that the inputs are within their intervals (inputs are the coordinates when using `pass`).
 
-### Executing
+### Executing Script
+
 ```
-Usage: iss_poc_wh ['loc', 'people', 'pass'] [latitude: float] [longitude: float]
+Usage: poc_wh ['loc', 'people', 'pass'] [latitude: float] [longitude: float]
 ```
 
 # Links
