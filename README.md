@@ -38,7 +38,7 @@ for each craft print the details of those people that are currently in space
 # Interpretation
 To really sum up what they want:
 ```
-Create an HTTP client that hits the three endpoints (as described in the link) that processes the returned JSON.
+Create an HTTP client that hits the three endpoints (as described in the link) and processes the returned JSON.
 
 Format and print the processed data in a meaningful way.
 
@@ -47,7 +47,7 @@ The endpoint you hit is based on console arguments, where some will need additio
 
 The task is pretty open ended, so you can print what you please as long as it gives relevant information as described in the task.
 
-In addition, you'll notice a lot of little caveats in the JSON payloadds, and it's really up to you to decide what parts you include or exclude in your output.
+In addition, you'll notice a lot of little caveats in the JSON payloads, and it's really up to you to decide what parts you include or exclude in your output.
 
 # My Solution
 The following was used for my submission:
