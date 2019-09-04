@@ -1,5 +1,5 @@
 # Python Interview Task
-A real Python based interview task that I was asked to complete during an interview with a Fortune 500 company.
+A real Python based task that I was asked to complete during an interview with a Fortune 500 company.
 
 Given a very poor (very real) list of requirements, make a Python console program that fulfills them.
 
