@@ -71,7 +71,7 @@ Validation will then be checking for the inputs existence, if they are numeric, 
 ### Executing Script
 
 ```
-Usage: poc_wh ['loc', 'people', 'pass'] [latitude: float] [longitude: float]
+Usage: iss_poc ['loc', 'people', 'pass'] [latitude: float] [longitude: float]
 ```
 
 # Links
