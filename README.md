@@ -1,4 +1,4 @@
-# Python Interview Task
+# Python Interview Question
 A real Python based task that I was asked to complete during an interview with a Fortune 500 company.
 
 Given a very poor (very real) list of requirements, make a Python console program that fulfills them.
@@ -49,8 +49,8 @@ The task is pretty open ended, so you can print what you please as long as it gi
 
 In addition, you'll notice a lot of little caveats in the JSON payloadds, and it's really up to you to decide what parts you include or exclude in your output.
 
-# My Submission
-The following was used for the submission:
+# My Solution
+The following was used for my submission:
 
 1. Python 3.7.3
 2. [requests v2.22.0](https://2.python-requests.org/en/master/)
