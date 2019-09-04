@@ -57,8 +57,21 @@ I attempted to showcase my understanding of the following:
 2. Data Validation
 3. Exception handling for various situations (e.g `IndexError`, error check after hitting endpoint)
 4. Processing JSON data into organized structures (e.g dictionaries)
-5. String formatting
+5. Use of time functions
+6. String formatting
 
-To emphasize data validation, latitude and longitude are in a range of [-90,90] and [-180,180], respetively.
+To emphasize data validation, [latitude and longitude](http://www.geomidpoint.com/latlon.html) are in a range of `[-90, 90]` and `[-180, 180]`, respetively.
 
 Validation will then be checking for the inputs existence, if they are numeric, and lastly ensuring that the inputs are within their intervals (inputs are the coordinates when using `pass`).
+
+### Executing
+```
+Usage: iss_poc_wh ['loc', 'people', 'pass'] [latitude: float] [longitude: float]
+```
+
+# Links
+
+1. [requests](https://2.python-requests.org/en/master/)
+2. [Latitude and Longitude math cheat sheet](http://www.geomidpoint.com/latlon.html)
+3. [datetime](https://docs.python.org/3.3/library/datetime.html#datetime.datetime.utcfromtimestamp)
+4. [exceptions](https://docs.python.org/2/library/exceptions.html)
