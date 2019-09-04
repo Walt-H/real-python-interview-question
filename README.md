@@ -45,6 +45,8 @@ The endpoint you hit is based on console arguments, where some will need additio
 
 The task is pretty open ended, so you can print what you please as long as it gives relevant information as described in the task.
 
+In addition, you'll notice a lot of little caveats in the JSON payloadds, and it's really up to you to decide what parts you include or exclude in your output.
+
 # My Submission
 The following was used for the submission:
 
