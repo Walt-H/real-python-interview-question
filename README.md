@@ -3,7 +3,7 @@ A real Python based task that I was asked to complete during an interview with a
 
 Given a very poor (very real) list of requirements, make a Python console program that fulfills them.
 
-Here is the actual task requirements. They are very informal, but from my experience, is typical of lazy analyst lol.
+Here is the actual task requirements. They are very informal, but from my experience, is typical of lazy analyst lol:
 
 ---
 
@@ -40,7 +40,7 @@ To really sum up what they want:
 ```
 Create an HTTP client that hits the three endpoints (as described in the link) that processes the returned JSON.
 
-It should then be printed in a meaningful way to the user.
+Format and print the processed data in a meaningful way.
 
 The endpoint you hit is based on console arguments, where some will need additional arguments (i.e pass)
 ```
