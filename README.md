@@ -38,7 +38,9 @@ for each craft print the details of those people that are currently in space
 # Interpretation
 To really sum up what they want:
 ```
-Create an HTTP client that hits the three endpoints (as described in the link) and processes and prints the returned JSON.
+Create an HTTP client that hits the three endpoints (as described in the link) that processes the returned JSON.
+
+It should then be printed in a meaningful way to the user.
 
 The endpoint you hit is based on console arguments, where some will need additional arguments (i.e pass)
 ```
