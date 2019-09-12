@@ -45,7 +45,7 @@ Format and print the processed data in a meaningful way.
 The endpoint you hit is based on console arguments, where some will need additional arguments (i.e pass)
 ```
 
-The task is pretty open ended, so you can print what you please as long as it gives relevant information as described in the task.
+The task is pretty open ended, so you can print what you please as long as it gives relevant information from each endpoint.
 
 In addition, you'll notice a lot of little caveats in the JSON payloads, and it's really up to you to decide what parts you include or exclude in your output.
 
@@ -64,7 +64,7 @@ I attempted to showcase my understanding of the following:
 5. Use of time functions
 6. String formatting
 
-To emphasize data validation, [latitude and longitude](http://www.geomidpoint.com/latlon.html) are in a range of `[-90, 90]` and `[-180, 180]`, respetively.
+To emphasize data validation, [latitude and longitude](http://www.geomidpoint.com/latlon.html) are in a range of `[-90, 90]` and `[-180, 180]`, respectively.
 
 Validation will then be checking for the inputs existence, if they are numeric, and lastly ensuring that the inputs are within their intervals (inputs are the coordinates when using `pass`).
 
